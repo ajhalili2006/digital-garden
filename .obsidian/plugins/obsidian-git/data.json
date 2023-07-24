@@ -1,6 +1,6 @@
 {
-  "commitMessage": "chore(obsidian/{{hostname}}): vault backup manually commited for {{date}}",
-  "autoCommitMessage": "chore(obsidian/{{hostname}}): vault backup generated for {{date}}",
+  "commitMessage": "chore(obsidian@{{hostname}}): vault backup manually commited for {{date}}",
+  "autoCommitMessage": "chore(obsidian@{{hostname}}): vault backup generated for {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 90,
   "autoPushInterval": 0,

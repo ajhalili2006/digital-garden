@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "8724355fcc88491c",
+        "id": "fb298b0a1727502b",
         "type": "tabs",
         "children": [
           {
-            "id": "6ce21ee4bbb6d66d",
+            "id": "37610c2a2cc334fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fa8374c0640864c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "contract.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "contract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "contract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "contract.md"
               }
             }
           },
@@ -160,12 +175,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6ce21ee4bbb6d66d",
+  "active": "0fa8374c0640864c",
   "lastOpenFiles": [
     "README.md",
+    "contract.md",
+    "daily-notes/2023-07-24.md",
+    "daily-notes",
     "hello-world.md"
   ]
 }
