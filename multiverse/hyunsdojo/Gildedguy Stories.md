@@ -1,6 +1,6 @@
 # Gildedguy Stories Starter Pack
 
-This is [[ajhalili2006]]'s personal starter pack for [[gildedguy stories]], an animation series by [[mikedmoy]] (also known as [[gildedguy]] in the community).
+This is [[ajhalili2006]]'s personal starter pack for [[Gildedguy Stories]], an animation series by [[mikedmoy]] (also known as [[gildedguy]] in the community).
 
 ## Episodes in series
 
