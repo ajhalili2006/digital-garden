@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LICENSE.md",
+                "file": "Gildedguy Stories.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LICENSE.md",
+                "file": "Gildedguy Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LICENSE.md",
+                "file": "Gildedguy Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LICENSE.md"
+                "file": "Gildedguy Stories.md"
               }
             }
           },
@@ -184,11 +184,11 @@
   },
   "active": "98789b62ea6dc7aa",
   "lastOpenFiles": [
-    "README.md",
+    "daily-notes/2023-07-24.md",
     "LICENSE.md",
+    "README.md",
     "CC-BY-SA-4.0.md",
     "daily notes.md",
-    "daily-notes/2023-07-24.md",
     "mikedmoy.md",
     "backend pain.md",
     "ajhalili2006.md",

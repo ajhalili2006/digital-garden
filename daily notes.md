@@ -1,0 +1,2 @@
+List of [[ajhalili2006]]'s daily note entries, updated on daily basis (depending on how many times I push fresh commits and fetched by <https://anagora.org> server).
+* [[2023-07-24]] (also open [rendered by gitlab](https://mau.dev/andreijiroh.dev/digital-garden/-/blob/main/daily-notes/2023-07-24.md), [obsidian via local clone](obsidian://open?vault=digital-&file=daily-notes%2F2023-07-24))

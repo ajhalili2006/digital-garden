@@ -1,0 +1,1 @@
+My personal autistic reference for all the issues relating to the back of the things, especially the backends of not just websites, but also desktop and mobile apps.
