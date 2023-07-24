@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "0fa8374c0640864c",
+            "id": "98789b62ea6dc7aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contract.md",
+                "file": "LICENSE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contract.md",
+                "file": "LICENSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contract.md",
+                "file": "LICENSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contract.md"
+                "file": "LICENSE.md"
               }
             }
           },
@@ -176,14 +176,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0fa8374c0640864c",
+  "active": "98789b62ea6dc7aa",
   "lastOpenFiles": [
     "README.md",
-    "contract.md",
+    "LICENSE.md",
+    "CC-BY-SA-4.0.md",
+    "daily notes.md",
     "daily-notes/2023-07-24.md",
+    "mikedmoy.md",
+    "backend pain.md",
+    "ajhalili2006.md",
+    "Gildedguy Stories.md",
+    "202307241029.md",
+    "contract.md",
     "daily-notes",
     "hello-world.md"
   ]

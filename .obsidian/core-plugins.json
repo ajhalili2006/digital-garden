@@ -16,10 +16,13 @@
   "editor-status",
   "bookmarks",
   "markdown-importer",
+  "zk-prefixer",
+  "random-note",
   "outline",
   "word-count",
   "slides",
   "workspaces",
   "file-recovery",
+  "publish",
   "sync"
 ]
