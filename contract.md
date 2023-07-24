@@ -1,7 +1,13 @@
-Attached in this Markdown file is my agreement to [the Agnora contract](https://github.com/flancian/agora/blob/master/CONTRACT.md) (meta tag: [[contract]]) in form of cryptographic signatures.
+Attached in this Markdown file is my agreement to [the Angora contract](https://github.com/flancian/agora/blob/master/CONTRACT.md) (meta tag: [[contract]]) in form of cryptographic signatures.
 
-## PGP
-Verify with my GPG key `4D5E631758CB9CC45941B1CE67BFC91B3DA12BE8`. You can also verify via <https://keybase.io/verify> and confirm if its matches my Keybase profile via [this GitHub Gist proof](https://gist.github.com/ajhalili2006/b24b1c2178a4855be25216e3443ef8ee).
+## Why signing your agreement to the Angora contract?
+It's a way to publicly prove that you agree to and understand the contract via your cryptographic keys, whenever its SSH keys, PGP keys or even hash it with `argon`.
+
+## Signatures
+_Signatures last updated as of 2023-07-24. They'll be updated once or twice every year._
+
+### PGP
+Verify with my GPG key `4D5E631758CB9CC45941B1CE67BFC91B3DA12BE8`. You can also verify via <https://keybase.io/verify> (not in the GUI app) and confirm if its matches my Keybase profile via [this GitHub Gist proof](https://gist.github.com/ajhalili2006/b24b1c2178a4855be25216e3443ef8ee).
 
 ```pgp
 -----BEGIN PGP SIGNED MESSAGE-----
@@ -26,7 +32,7 @@ niyKFACSnALCoYx3iU4NbrQ9Qf6BtLuoZYMPXVOI8vuNoIWcfnQ=
 -----END PGP SIGNATURE-----
 ```
 
-## Keybase
+### Keybase
 Verify this signature by piping to `keybase verify -i - -S ajhalili2006@github` OR via **Crypto** -> **Verify** in the Keybase GUI app.
 
 ```saltpack
