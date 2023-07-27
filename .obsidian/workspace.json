@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-26.md",
+                "file": "multiverse/humans/mikedmoy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#humans",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,11 @@
   },
   "active": "ba803bff22086f66",
   "lastOpenFiles": [
+    "multiverse/humans/mikedmoy.md",
+    "Obsidian.md",
+    "Personal Board.canvas",
     "daily-notes/2023-07-26.md",
+    "README.md",
     "thoughts/musings/Why working on projects alone?.md",
     "thoughts/musings",
     "thoughts/essays",
@@ -192,12 +197,9 @@
     "user-manual",
     "daily-notes/2023-07-25.md",
     "daily-notes/2023-07-24.md",
-    "Personal Board.canvas",
     "stash-hub",
     "multiverse/hyunsdojo/Gildedguy Stories.md",
     "multiverse/humans",
-    "README.md",
-    "multiverse/humans/mikedmoy.md",
     "multiverse/hyunsdojo",
     "multiverse/minecraft",
     "multiverse",
