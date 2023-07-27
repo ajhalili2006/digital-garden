@@ -1,0 +1,1 @@
+sshI usually work on projects, especially on Recap Time Squad, alone, not because of me being

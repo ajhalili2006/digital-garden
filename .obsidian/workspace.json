@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb298b0a1727502b",
+        "id": "930aa665c13b06fc",
         "type": "tabs",
         "children": [
           {
-            "id": "37610c2a2cc334fe",
+            "id": "ba803bff22086f66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "thoughts/musings/Why working on projects alone?.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +21,19 @@
             }
           },
           {
-            "id": "98789b62ea6dc7aa",
+            "id": "fc5475d285e3c611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gildedguy Stories.md",
+                "file": "daily-notes/2023-07-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254.5124969482422
   },
   "right": {
     "id": "a7aae72e14fdd92e",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gildedguy Stories.md",
+                "file": "thoughts/musings/Why working on projects alone?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gildedguy Stories.md",
+                "file": "thoughts/musings/Why working on projects alone?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gildedguy Stories.md"
+                "file": "thoughts/musings/Why working on projects alone?.md"
               }
             }
           },
@@ -165,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,20 +181,35 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "98789b62ea6dc7aa",
+  "active": "ba803bff22086f66",
   "lastOpenFiles": [
+    "daily-notes/2023-07-26.md",
+    "thoughts/musings/Why working on projects alone?.md",
+    "thoughts/musings",
+    "thoughts/essays",
+    "thoughts",
+    "user-manual/User Manual README.md",
+    "user-manual",
+    "daily-notes/2023-07-25.md",
     "daily-notes/2023-07-24.md",
-    "LICENSE.md",
+    "Personal Board.canvas",
+    "stash-hub",
+    "multiverse/hyunsdojo/Gildedguy Stories.md",
+    "multiverse/humans",
     "README.md",
-    "CC-BY-SA-4.0.md",
+    "multiverse/humans/mikedmoy.md",
+    "multiverse/hyunsdojo",
+    "multiverse/minecraft",
+    "multiverse",
+    "daily-notes/2023-W30.md",
+    "templates",
     "daily notes.md",
-    "mikedmoy.md",
+    "LICENSE.md",
+    "CC-BY-SA-4.0.md",
     "backend pain.md",
     "ajhalili2006.md",
-    "Gildedguy Stories.md",
     "202307241029.md",
     "contract.md",
-    "daily-notes",
     "hello-world.md"
   ]
 }
