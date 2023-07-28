@@ -19,6 +19,6 @@ glab repo clone https://mau.dev/andreijiroh.dev/digital-garden ~/git/ajhalili200
 gh repo clone ajhalili2006/digital-garden ~/git/ajhalili2006/digital-garden-ajhalili2006
 ```
 2. In an active Obsidian workspace, click **Open another vault** -> **Open folder as vault** -> **Open** and navigate to the directory where the repo is cloned.
-   ![[Pasted image 20230729001553.png]]
-![[Pasted image 20230728235017.png]]
+   ![](./stash-hub/Pasted image 20230729001553.png)
+   ![](./stash-hub/Pasted image 20230728235017.png)
 3. Enjoy pressing the links!
