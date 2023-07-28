@@ -1,4 +1,5 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "stash-hub"
+  "attachmentFolderPath": "stash-hub",
+  "newFileLocation": "current"
 }

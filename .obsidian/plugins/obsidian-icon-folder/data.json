@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📑",
       "FarPaperPlane",
       "FarCalendarDays",
       "⚔",
-      "⚖",
-      "FarClipboard"
+      "⚖"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,6 @@
     "iconName": "FarCalendarDays",
     "inheritanceIcon": "FarCalendarDays"
   },
-  "redirects": "FarPaperPlane"
+  "redirects": "FarPaperPlane",
+  "Obsidian.md": "📑"
 }

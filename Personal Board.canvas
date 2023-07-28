@@ -1,10 +1,7 @@
 {
 	"nodes":[
-		{"type":"text","text":"## This Week\n* Active: [[2023-07-24]], [[2023-07-25]]\n* Upcoming\n\t* 2023-07-26\n\t* 2023-07-27\n\t* 2023-07-28\n\t* 2023-07-29\n\t* 2023-07-30\n## Last Week","id":"cd2eb86ab4fde15e","x":-700,"y":-1360,"width":580,"height":380},
-		{"type":"text","text":"# Active Issues\n* Coda Doctorate:","id":"22a371bd9860ddfb","x":-620,"y":-1540,"width":420,"height":120}
+		{"type":"text","text":"# Active Issues\n* Coda Doctorate:","id":"22a371bd9860ddfb","x":-380,"y":-1620,"width":420,"height":120},
+		{"type":"text","text":"## This Week\n* [[2023-07-24]]\n* [[2023-07-25]]\n* 2023-07-26\n\t* 2023-07-27\n\t* [[2023-07-28]]\n\t* 2023-07-29\n\t* 2023-07-30\n## Last Week","id":"cd2eb86ab4fde15e","x":-1000,"y":-1620,"width":400,"height":380}
 	],
-	"edges":[
-		{"id":"2d8f3c57a8dcb950","fromNode":"cd2eb86ab4fde15e","fromSide":"top","toNode":"22a371bd9860ddfb","toSide":"bottom"},
-		{"id":"c4cd941727cb69fb","fromNode":"22a371bd9860ddfb","fromSide":"bottom","toNode":"cd2eb86ab4fde15e","toSide":"top"}
-	]
+	"edges":[]
 }

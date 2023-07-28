@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "930aa665c13b06fc",
+        "id": "bd501cbb7545406e",
         "type": "tabs",
         "children": [
           {
-            "id": "fc5475d285e3c611",
+            "id": "d47df8eca25c8bca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ce370184cf8b9d34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "redirects/golinks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redirects/golinks.md",
+                "file": "daily-notes/2023-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redirects/golinks.md",
+                "file": "daily-notes/2023-07-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redirects/golinks.md"
+                "file": "daily-notes/2023-07-28.md"
               }
             }
           },
@@ -165,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,22 +170,26 @@
   },
   "active": "ca0c47367d8e99de",
   "lastOpenFiles": [
+    "scripts/mirror.sh",
+    "scripts",
+    "daily-notes/2023-07-28.md",
+    "Obsidian.md",
+    "stash-hub/Pasted image 20230729001553.png",
+    "stash-hub/Pasted image 20230728235017.png",
+    "README.md",
+    "thoughts/essays/Fundy's Mind as interpreted by an autistic.md",
+    "daily notes.md",
+    "redirects/golinks.md",
     "redirects/golink.md",
     "contract.md",
-    "redirects/golinks.md",
-    "daily-notes/2023-07-28.md",
     "redirects",
     "multiverse/humans/mikedmoy.md",
-    "Obsidian.md",
-    "thoughts/essays/Fundy's Mind as interpreted by an autistic.md",
     "thoughts/musings/Working on projects alone.md",
     "multiverse/minecraft/Fundy's Mind.md",
     "Personal Board.canvas",
-    "README.md",
     "Untitled.canvas",
     "multiverse/humans/Untitled.canvas",
     "multiverse/misc-lorebooks",
-    "daily notes.md",
     "multiverse/hyunsdojo/Gildedguy Stories.md",
     "daily-notes/2023-07-26.md",
     "thoughts/musings",
@@ -212,7 +202,6 @@
     "stash-hub",
     "multiverse/humans",
     "multiverse/hyunsdojo",
-    "multiverse/minecraft",
     "daily-notes/2023-W30.md",
     "LICENSE.md",
     "CC-BY-SA-4.0.md",
