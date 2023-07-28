@@ -1,0 +1,2 @@
+*.md eol=lfe
+stash-hub/Pasted[[:space:]]image[[:space:]]20230728235017.png filter=lfs diff=lfs merge=lfs -text
