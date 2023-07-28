@@ -1,4 +1,4 @@
-* [go] https://gildedguy.com
+* [[go]] https://gildedguy.com
 
 ---
 Obsidian tags: #humans #content-creators #animators
