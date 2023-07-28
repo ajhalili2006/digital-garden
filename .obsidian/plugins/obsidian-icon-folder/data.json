@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarPaperPlane",
+      "FarCalendarDays",
+      "⚔",
+      "⚖",
+      "FarClipboard"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "thoughts": "💭",
+  "thoughts/musings": "🤔",
+  "Personal Board.canvas": "FarClipboard",
+  "LICENSE.md": "⚖",
+  "multiverse/hyunsdojo": "⚔",
+  "thoughts/essays/Fundy's Mind as interpreted by an autistic.md": "🧠",
+  "README.md": {
+    "iconName": "🧠",
+    "inheritanceIcon": "FarBookmark"
+  },
+  "daily-notes": {
+    "iconName": "FarCalendarDays",
+    "inheritanceIcon": "FarCalendarDays"
+  },
+  "redirects": "FarPaperPlane"
+}

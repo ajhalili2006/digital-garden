@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba803bff22086f66",
+            "id": "fc5475d285e3c611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/musings/Why working on projects alone?.md",
+                "file": "daily-notes/2023-07-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "fc5475d285e3c611",
+            "id": "ce370184cf8b9d34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "multiverse/humans/mikedmoy.md",
+                "file": "redirects/golinks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#humans",
+                "query": "fundy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/musings/Why working on projects alone?.md",
+                "file": "redirects/golinks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/musings/Why working on projects alone?.md",
+                "file": "redirects/golinks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/musings/Why working on projects alone?.md"
+                "file": "redirects/golinks.md"
               }
             }
           },
@@ -165,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,14 +182,26 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ba803bff22086f66",
+  "active": "ca0c47367d8e99de",
   "lastOpenFiles": [
+    "redirects/golink.md",
+    "contract.md",
+    "redirects/golinks.md",
+    "daily-notes/2023-07-28.md",
+    "redirects",
     "multiverse/humans/mikedmoy.md",
     "Obsidian.md",
+    "thoughts/essays/Fundy's Mind as interpreted by an autistic.md",
+    "thoughts/musings/Working on projects alone.md",
+    "multiverse/minecraft/Fundy's Mind.md",
     "Personal Board.canvas",
-    "daily-notes/2023-07-26.md",
     "README.md",
-    "thoughts/musings/Why working on projects alone?.md",
+    "Untitled.canvas",
+    "multiverse/humans/Untitled.canvas",
+    "multiverse/misc-lorebooks",
+    "daily notes.md",
+    "multiverse/hyunsdojo/Gildedguy Stories.md",
+    "daily-notes/2023-07-26.md",
     "thoughts/musings",
     "thoughts/essays",
     "thoughts",
@@ -198,20 +210,15 @@
     "daily-notes/2023-07-25.md",
     "daily-notes/2023-07-24.md",
     "stash-hub",
-    "multiverse/hyunsdojo/Gildedguy Stories.md",
     "multiverse/humans",
     "multiverse/hyunsdojo",
     "multiverse/minecraft",
-    "multiverse",
     "daily-notes/2023-W30.md",
-    "templates",
-    "daily notes.md",
     "LICENSE.md",
     "CC-BY-SA-4.0.md",
     "backend pain.md",
     "ajhalili2006.md",
     "202307241029.md",
-    "contract.md",
     "hello-world.md"
   ]
 }
