@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-28.md",
+                "file": "daily-notes/2023-08-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-28.md",
+                "file": "daily-notes/2023-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-28.md",
+                "file": "daily-notes/2023-08-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-28.md"
+                "file": "daily-notes/2023-08-04.md"
               }
             }
           },
@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,44 +170,46 @@
   },
   "active": "ca0c47367d8e99de",
   "lastOpenFiles": [
+    "daily notes.md",
+    "daily-notes/2023-07-24.md",
+    "daily-notes/2023-07-28.md",
+    "daily-notes/2023-07-26.md",
+    "daily-notes/2023-07-25.md",
+    "daily-notes/2023-08-02.md",
+    "daily-notes/2023-08-03.md",
+    "daily-notes/2023-08-01.md",
+    "daily-notes/2023-07-31.md",
+    "daily-notes/2023-07-30.md",
+    "daily-notes/2023-08-04.md",
+    "TalkLinked.md",
+    "go.md",
+    "Obsidian.md",
+    "multiverse/minecraft/Fundy's Mind.md",
+    "multiverse/humans/mikedmoy.md",
+    "daily-notes/2023-07-29.md",
     "scripts/mirror.sh",
     "scripts",
-    "daily-notes/2023-07-28.md",
-    "Obsidian.md",
     "stash-hub/Pasted image 20230729001553.png",
     "stash-hub/Pasted image 20230728235017.png",
     "README.md",
     "thoughts/essays/Fundy's Mind as interpreted by an autistic.md",
-    "daily notes.md",
     "redirects/golinks.md",
     "redirects/golink.md",
     "contract.md",
     "redirects",
-    "multiverse/humans/mikedmoy.md",
     "thoughts/musings/Working on projects alone.md",
-    "multiverse/minecraft/Fundy's Mind.md",
     "Personal Board.canvas",
     "Untitled.canvas",
     "multiverse/humans/Untitled.canvas",
     "multiverse/misc-lorebooks",
     "multiverse/hyunsdojo/Gildedguy Stories.md",
-    "daily-notes/2023-07-26.md",
     "thoughts/musings",
     "thoughts/essays",
     "thoughts",
     "user-manual/User Manual README.md",
     "user-manual",
-    "daily-notes/2023-07-25.md",
-    "daily-notes/2023-07-24.md",
     "stash-hub",
     "multiverse/humans",
-    "multiverse/hyunsdojo",
-    "daily-notes/2023-W30.md",
-    "LICENSE.md",
-    "CC-BY-SA-4.0.md",
-    "backend pain.md",
-    "ajhalili2006.md",
-    "202307241029.md",
-    "hello-world.md"
+    "daily-notes/2023-W30.md"
   ]
 }

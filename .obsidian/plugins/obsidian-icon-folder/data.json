@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "👤",
       "📑",
       "FarPaperPlane",
       "FarCalendarDays",
-      "⚔",
-      "⚖"
+      "⚔"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,9 @@
     "inheritanceIcon": "FarCalendarDays"
   },
   "redirects": "FarPaperPlane",
-  "Obsidian.md": "📑"
+  "Obsidian.md": "📑",
+  "multiverse/humans": {
+    "iconName": "👤",
+    "inheritanceIcon": "👤"
+  }
 }
