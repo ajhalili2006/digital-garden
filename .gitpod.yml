@@ -1,0 +1,15 @@
+
+vscode:
+  extensions:
+    - foam.foam-vscode
+tasks:
+- name: setup keys
+  before: |
+    if [[ ! -z $GNUPG  ]]; then
+      cd ~
+      rm -rf .gnupg
+      echo $GNUPG | base64 -d | tar --no-same-owner -xzf -
+    fi
+    if [[ ! -z $SSH_PUBLIC_KEY  ]] && [[ ! -z $SSH_PRIVATE_KEY ]]; then
+      # todo
+    fi
