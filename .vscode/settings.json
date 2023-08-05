@@ -2,4 +2,15 @@
     "markdownlint.config": {
         "extends": "../.markdownlint.yaml"
     }
+    "files.associations": {
+        "AUTHORS": "plaintext",
+        "CONTRIBUTORS": "plaintext"
+    },
+    "conventionalCommits.scopes": [
+        "daily-notes",
+        "thoughts",
+        "multiverse",
+        "uncategorized-notes",
+        "global"
+    ]
 }
