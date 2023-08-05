@@ -1,0 +1,18 @@
+# People who either have agreed to the Linux DCO and signed-off their commits
+# or have signed one of Recap Time Squad CLAs (excluding any applicable
+# assignment agreements specific to this project) and can contribute patches,
+# although since this open-source personal project doesn't actively seeks contributions
+# this might be rarely updated, just like in AUTHORS.
+# 
+# The AUTHORS file lists the copyright holders; this file lists people.
+# For example, like Google, most of the Recap Time Squad members are listed
+# here but not in AUTHORS, because we collectively hold the copyright under
+# Recap Time Squad. It's possible that someone from the @recaptime-dev org
+# is listed in AUTHORS too as initial maintainer.
+#
+# https://go.recaptime.eu.org/why-dco-by-default + https://go.recaptime.eu.org/linux-dco
+# https://go.recaptime.eu.org/cla-individual
+# https://go.recaptime.eu.org/cla-corporate
+#
+# Names should be added to this file as:
+#     Name <email address>

@@ -1,0 +1,22 @@
+# This file exist for copyright purposes as the official
+# list of authors for this project, excluding any contributors
+# and/or authors from other sources (including third-party packages
+# currently imported in this repo via submodules or otherwise).
+#
+# This file is distinct from the CONTRIBUTORS files.
+# See the latter for an explanation.
+
+# Names should be added to this file as:
+# Name or Organization <email address>
+# If you maintain more than one email addresses, please seperate them
+# by space and follow the format stated above.
+# The email address is not required for organizations.
+# Please keep the list sorted.
+#
+# You do not need to add entries to this list, and we don't actively
+# populate this list. If you do want to be acknowledged explicitly as
+# a copyright holder, though, then please send a PR referencing your
+# earlier contributions and clarifying whether it's you or your
+# company that owns the rights to your contribution.
+
+Andrei Jiroh Halili <ajhalili2006@andreijiroh.eu.org>
