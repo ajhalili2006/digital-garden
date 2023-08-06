@@ -1,7 +1,7 @@
 {
     "markdownlint.config": {
         "extends": "../.markdownlint.yaml"
-    }
+    },
     "files.associations": {
         "AUTHORS": "plaintext",
         "CONTRIBUTORS": "plaintext"
@@ -12,5 +12,7 @@
         "multiverse",
         "uncategorized-notes",
         "global"
-    ]
+    ],
+    "foam.openDailyNote.filenameFormat": "yyyy-mm-dd",
+    "foam.openDailyNote.directory": "daily-notes"
 }
