@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-04.md",
+                "file": "daily-notes/2023-08-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-04.md",
+                "file": "daily-notes/2023-08-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-04.md",
+                "file": "daily-notes/2023-08-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-04.md"
+                "file": "daily-notes/2023-08-06.md"
               }
             }
           },
@@ -168,8 +168,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ca0c47367d8e99de",
+  "active": "d47df8eca25c8bca",
   "lastOpenFiles": [
+    "daily-notes/2023-08-06.md",
+    "templates/daily note template.md",
+    "daily-notes/2023-08-04.md",
+    "daily-notes/2023-08-05.md",
     "daily notes.md",
     "daily-notes/2023-07-24.md",
     "daily-notes/2023-07-28.md",
@@ -180,7 +184,6 @@
     "daily-notes/2023-08-01.md",
     "daily-notes/2023-07-31.md",
     "daily-notes/2023-07-30.md",
-    "daily-notes/2023-08-04.md",
     "TalkLinked.md",
     "go.md",
     "Obsidian.md",
@@ -202,14 +205,11 @@
     "Untitled.canvas",
     "multiverse/humans/Untitled.canvas",
     "multiverse/misc-lorebooks",
-    "multiverse/hyunsdojo/Gildedguy Stories.md",
     "thoughts/musings",
     "thoughts/essays",
     "thoughts",
-    "user-manual/User Manual README.md",
     "user-manual",
     "stash-hub",
-    "multiverse/humans",
-    "daily-notes/2023-W30.md"
+    "multiverse/humans"
   ]
 }
