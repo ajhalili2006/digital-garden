@@ -1,5 +1,5 @@
 # Gildedguy Stories Starter Pack
-* [go] <https://www.youtube.com/watch?v=X7Arrfu9l30&list=PLZO8-IAk24ts-k651wkF7019Qpr4zOC7i&pp=iAQB>
+* [[go]] <https://www.youtube.com/watch?v=X7Arrfu9l30&list=PLZO8-IAk24ts-k651wkF7019Qpr4zOC7i&pp=iAQB>
 
 This is [[ajhalili2006]]'s personal starter pack for [[Gildedguy Stories]], an animation series by [[mikedmoy]] (also known as [[gildedguy]] in the community).
 
