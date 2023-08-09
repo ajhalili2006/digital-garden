@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-06.md",
+                "file": "daily-notes/2023-08-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-06.md",
+                "file": "daily-notes/2023-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-06.md",
+                "file": "daily-notes/2023-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-06.md"
+                "file": "daily-notes/2023-08-08.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,9 +171,13 @@
   },
   "active": "d47df8eca25c8bca",
   "lastOpenFiles": [
+    "daily-notes/2023-08-07.md",
+    "daily-notes/2023-08-08.md",
+    "multiverse/Lackaverse/Calvin Allen McMurray.md",
+    "multiverse/Lackaverse",
+    "daily-notes/recaptime.dev.md",
     "multiverse/fandoms/Murder Drones.md",
     "multiverse/fandoms",
-    "daily-notes/2023-08-07.md",
     "LICENSE",
     "Kooky Insane Stuff.md",
     "daily-notes/2023-08-06.md",
@@ -194,14 +199,10 @@
     "Obsidian.md",
     "multiverse/minecraft/Fundy's Mind.md",
     "multiverse/humans/mikedmoy.md",
-    "daily-notes/2023-07-29.md",
     "scripts/mirror.sh",
     "scripts",
     "stash-hub/Pasted image 20230729001553.png",
     "stash-hub/Pasted image 20230728235017.png",
-    "README.md",
-    "thoughts/essays/Fundy's Mind as interpreted by an autistic.md",
-    "redirects/golinks.md",
     "redirects",
     "Personal Board.canvas",
     "Untitled.canvas",
@@ -209,7 +210,6 @@
     "multiverse/misc-lorebooks",
     "thoughts/musings",
     "thoughts/essays",
-    "thoughts",
-    "user-manual"
+    "thoughts"
   ]
 }
