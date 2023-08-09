@@ -11,9 +11,30 @@
             "id": "d47df8eca25c8bca",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Personal Board.canvas",
+                "viewState": {
+                  "x": -480,
+                  "y": -1430,
+                  "zoom": -0.45596776333372574
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "32848fffdce957a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31baaaba56657a0b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-08.md",
+                "file": "daily-notes/2023-08-10.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-08.md",
+                "file": "daily-notes/2023-08-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-08.md",
+                "file": "daily-notes/2023-08-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-08.md"
+                "file": "daily-notes/2023-08-10.md"
               }
             }
           },
@@ -169,10 +190,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d47df8eca25c8bca",
+  "active": "31baaaba56657a0b",
   "lastOpenFiles": [
-    "daily-notes/2023-08-07.md",
+    "Personal Board.canvas",
+    "daily-notes/2023-08-09.md",
+    "daily-notes/2023-08-10.md",
     "daily-notes/2023-08-08.md",
+    "daily-notes/2023-08-07.md",
     "multiverse/Lackaverse/Calvin Allen McMurray.md",
     "multiverse/Lackaverse",
     "daily-notes/recaptime.dev.md",
@@ -197,14 +221,11 @@
     "TalkLinked.md",
     "go.md",
     "Obsidian.md",
-    "multiverse/minecraft/Fundy's Mind.md",
-    "multiverse/humans/mikedmoy.md",
     "scripts/mirror.sh",
     "scripts",
     "stash-hub/Pasted image 20230729001553.png",
     "stash-hub/Pasted image 20230728235017.png",
     "redirects",
-    "Personal Board.canvas",
     "Untitled.canvas",
     "multiverse/humans/Untitled.canvas",
     "multiverse/misc-lorebooks",
