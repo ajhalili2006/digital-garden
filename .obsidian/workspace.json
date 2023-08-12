@@ -11,14 +11,12 @@
             "id": "d47df8eca25c8bca",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Personal Board.canvas",
-                "viewState": {
-                  "x": -480,
-                  "y": -1430,
-                  "zoom": -0.45596776333372574
-                }
+                "file": "daily-notes/2023-08-12.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -40,8 +38,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8adc2093fba871dd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Personal Board.canvas",
+                "viewState": {
+                  "x": -800,
+                  "y": -1550,
+                  "zoom": -0.4
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-10.md",
+                "file": "daily-notes/2023-08-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-10.md",
+                "file": "daily-notes/2023-08-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-10.md"
+                "file": "daily-notes/2023-08-12.md"
               }
             }
           },
@@ -178,9 +192,9 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
@@ -190,11 +204,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "31baaaba56657a0b",
+  "active": "d47df8eca25c8bca",
   "lastOpenFiles": [
+    "personal mixtapes.md",
+    "daily-notes/2023-08-11.md",
+    "daily-notes/2023-08-12.md",
     "Personal Board.canvas",
-    "daily-notes/2023-08-09.md",
+    "multiverse/fandoms/Generation Loss.md",
     "daily-notes/2023-08-10.md",
+    "daily-notes/2023-08-09.md",
     "daily-notes/2023-08-08.md",
     "daily-notes/2023-08-07.md",
     "multiverse/Lackaverse/Calvin Allen McMurray.md",
@@ -217,10 +235,6 @@
     "daily-notes/2023-08-03.md",
     "daily-notes/2023-08-01.md",
     "daily-notes/2023-07-31.md",
-    "daily-notes/2023-07-30.md",
-    "TalkLinked.md",
-    "go.md",
-    "Obsidian.md",
     "scripts/mirror.sh",
     "scripts",
     "stash-hub/Pasted image 20230729001553.png",

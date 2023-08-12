@@ -1,7 +1,12 @@
 {
 	"nodes":[
-		{"type":"text","text":"# Active Issues\n* Coda Doctorate: [LAUNCHPAD-T-60 (capstone project showcase)](https://ajhalili2006.jetbrains.space/p/launchpad/issues/60)","id":"22a371bd9860ddfb","x":-380,"y":-1620,"width":420,"height":120},
-		{"type":"text","text":"## Week In Review\n* [[2023-08-10]]","id":"cd2eb86ab4fde15e","x":-1000,"y":-1620,"width":400,"height":380}
+		{"id":"2257c1778e783fe1","x":-1300,"y":-2100,"width":440,"height":740,"type":"group","label":"ToDone and shit"},
+		{"type":"text","text":"## Week In Review\nSee also [[daily notes]], often outdated.\n* [[2023-08-10]]","id":"cd2eb86ab4fde15e","x":-1280,"y":-1760,"width":400,"height":380},
+		{"type":"text","text":"# Active Issues\n* Coda Doctorate: [LAUNCHPAD-T-60 (capstone project showcase)](https://ajhalili2006.jetbrains.space/p/launchpad/issues/60)\n\t* Oh god, I forgot it's past 2023-08-11, although I may try brainstorm for the OSS stuff soonish.","id":"22a371bd9860ddfb","x":-1280,"y":-2080,"width":400,"height":280},
+		{"id":"b7798a6e238807b3","x":-820,"y":-2060,"width":500,"height":400,"type":"file","file":"multiverse/Lackaverse/Calvin Allen McMurray.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"393789e8ce138f96","fromNode":"cd2eb86ab4fde15e","fromSide":"top","toNode":"22a371bd9860ddfb","toSide":"bottom"},
+		{"id":"fd149781460abfc8","fromNode":"22a371bd9860ddfb","fromSide":"bottom","toNode":"cd2eb86ab4fde15e","toSide":"top"}
+	]
 }
