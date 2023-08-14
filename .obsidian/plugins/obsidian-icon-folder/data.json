@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "♠",
       "👤",
       "📑",
       "FarPaperPlane",
-      "FarCalendarDays",
-      "⚔"
+      "FarCalendarDays"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,9 @@
   "multiverse/humans": {
     "iconName": "👤",
     "inheritanceIcon": "👤"
+  },
+  "multiverse/Lackaverse": {
+    "iconName": null,
+    "inheritanceIcon": "♠"
   }
 }

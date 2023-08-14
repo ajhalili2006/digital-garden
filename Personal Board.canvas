@@ -1,12 +1,14 @@
 {
 	"nodes":[
-		{"id":"2257c1778e783fe1","x":-1300,"y":-2100,"width":440,"height":740,"type":"group","label":"ToDone and shit"},
-		{"type":"text","text":"## Week In Review\nSee also [[daily notes]], often outdated.\n* [[2023-08-13]]","id":"cd2eb86ab4fde15e","x":-1280,"y":-1760,"width":400,"height":380},
-		{"type":"text","text":"# Active Issues\n* Coda Doctorate: [LAUNCHPAD-T-60 (capstone project showcase)](https://ajhalili2006.jetbrains.space/p/launchpad/issues/60)\n\t* Oh god, I forgot it's past 2023-08-11, although I may try brainstorm for the OSS stuff soonish.","id":"22a371bd9860ddfb","x":-1280,"y":-2080,"width":400,"height":280},
-		{"id":"b7798a6e238807b3","x":-820,"y":-2060,"width":500,"height":400,"type":"file","file":"multiverse/Lackaverse/Calvin Allen McMurray.md"}
+		{"type":"group","id":"2257c1778e783fe1","x":-1700,"y":-2540,"width":440,"height":740,"label":"ToDone and shit"},
+		{"type":"file","file":"multiverse/Lackaverse/Calvin Allen McMurray.md","id":"b7798a6e238807b3","x":-880,"y":-2300,"width":500,"height":400},
+		{"type":"text","text":"## Week In Review\nSee also [[daily notes]], often outdated.\n* [[2023-08-13]]","id":"cd2eb86ab4fde15e","x":-1680,"y":-2200,"width":400,"height":380},
+		{"type":"text","text":"# Active Issues\n* Coda Doctorate: [LAUNCHPAD-T-60 (capstone project showcase)](https://ajhalili2006.jetbrains.space/p/launchpad/issues/60)\n\t* Oh god, I forgot it's past 2023-08-11, although I may try brainstorm for the OSS stuff soonish.","id":"22a371bd9860ddfb","x":-1680,"y":-2520,"width":400,"height":280},
+		{"type":"file","file":"daily-notes/2023-08-14.md","id":"0a940ff8afc200da","x":-1720,"y":-1760,"width":740,"height":480,"color":"3"}
 	],
 	"edges":[
 		{"id":"393789e8ce138f96","fromNode":"cd2eb86ab4fde15e","fromSide":"top","toNode":"22a371bd9860ddfb","toSide":"bottom"},
-		{"id":"fd149781460abfc8","fromNode":"22a371bd9860ddfb","fromSide":"bottom","toNode":"cd2eb86ab4fde15e","toSide":"top"}
+		{"id":"fd149781460abfc8","fromNode":"22a371bd9860ddfb","fromSide":"bottom","toNode":"cd2eb86ab4fde15e","toSide":"top"},
+		{"id":"b6650366111b2f76","fromNode":"0a940ff8afc200da","fromSide":"top","toNode":"2257c1778e783fe1","toSide":"bottom"}
 	]
 }

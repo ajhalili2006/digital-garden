@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-12.md",
+                "file": "gildedguy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -30,12 +30,14 @@
             "id": "31baaaba56657a0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "daily-notes/2023-08-10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Personal Board.canvas",
+                "viewState": {
+                  "x": -1360.080078125,
+                  "y": -1479.6800079345703,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -43,19 +45,16 @@
             "id": "8adc2093fba871dd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Personal Board.canvas",
-                "viewState": {
-                  "x": -800,
-                  "y": -1550,
-                  "zoom": -0.4
-                }
+                "file": "daily-notes/2023-08-12.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fundy",
+                "query": "tag:#characterprofiles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,11 +108,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 254.5124969482422
+    "width": 304.5124969482422
   },
   "right": {
     "id": "a7aae72e14fdd92e",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-12.md",
+                "file": "daily-notes/2023-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-12.md",
+                "file": "daily-notes/2023-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-12.md"
+                "file": "daily-notes/2023-08-14.md"
               }
             }
           },
@@ -204,18 +204,23 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d47df8eca25c8bca",
+  "active": "31baaaba56657a0b",
   "lastOpenFiles": [
+    "multiverse/fandoms/Lackadaisy.md",
+    "Personal Board.canvas",
+    "gildedguy.md",
+    "multiverse/Lackaverse/Roark Rickaby.md",
+    "multiverse/Lackaverse/Calvin Allen McMurray.md",
+    "daily-notes/2023-08-14.md",
+    "daily-notes/2023-08-10.md",
+    "daily-notes/2023-08-12.md",
+    "daily-notes/2023-08-13.md",
     "personal mixtapes.md",
     "daily-notes/2023-08-11.md",
-    "daily-notes/2023-08-12.md",
-    "Personal Board.canvas",
     "multiverse/fandoms/Generation Loss.md",
-    "daily-notes/2023-08-10.md",
     "daily-notes/2023-08-09.md",
     "daily-notes/2023-08-08.md",
     "daily-notes/2023-08-07.md",
-    "multiverse/Lackaverse/Calvin Allen McMurray.md",
     "multiverse/Lackaverse",
     "daily-notes/recaptime.dev.md",
     "multiverse/fandoms/Murder Drones.md",
@@ -230,11 +235,6 @@
     "daily-notes/2023-07-24.md",
     "daily-notes/2023-07-28.md",
     "daily-notes/2023-07-26.md",
-    "daily-notes/2023-07-25.md",
-    "daily-notes/2023-08-02.md",
-    "daily-notes/2023-08-03.md",
-    "daily-notes/2023-08-01.md",
-    "daily-notes/2023-07-31.md",
     "scripts/mirror.sh",
     "scripts",
     "stash-hub/Pasted image 20230729001553.png",
