@@ -14,5 +14,23 @@
         "global"
     ],
     "foam.openDailyNote.filenameFormat": "yyyy-mm-dd",
-    "foam.openDailyNote.directory": "daily-notes"
+    "foam.openDailyNote.directory": "daily-notes",
+    "git.alwaysSignOff": true,
+    "gitlens.remotes": [
+        {
+            "domain": "mau.dev",
+            "type": "GitLab"
+        },
+        {
+            "domain": "git.vern.cc",
+            "type": "Gitea"
+        }
+    ],
+    "foam.files.ignore": [
+        "**/.vscode/**/*",
+        "**/_layouts/**/*",
+        "**/_site/**/*",
+        "**/node_modules/**/*",
+        "**/.obsidian/**"
+    ]
 }

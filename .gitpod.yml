@@ -2,6 +2,8 @@
 vscode:
   extensions:
     - foam.foam-vscode
+    - houkanshan.vscode-markdown-footnote
+
 tasks:
 - name: setup keys
   before: |
