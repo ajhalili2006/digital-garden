@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "stash-hub",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showFrontmatter": true
 }

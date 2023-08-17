@@ -20,13 +20,13 @@ Most of them are autistic annotations from [[ajhalili2006|~ajhalili2006]], so pa
 
 In the words of [[Roark Rickaby|Rocky]] himself, he sometimes turn into a "gunslinging outlaw maniac"[^3], especially when he ~~holding~~ using a gun like a madman.
 
-[^3]: [Jump to "Correspondence"](https://www.lackadaisycats.com/comic.php?comicid=94) in webcomic for context.
+[^3]: Jump to ["Correspondence"](https://www.lackadaisycats.com/comic.php?comicid=94) in webcomic for context.
 
 [^4]: From Lackawiki: "Tracy has stated that Freckle's father, Carroll, died in a mundane way, and was indirectly responsible in some manner for Freckle's eccentricities." (link to [archives](https://archivebot.deno.dev/go?url=todo))
 
 While it's not mentioned in the webcomic[^4] yet how and when he become insane (although "unmitigated carnage is a recent development" as seen in ["Quicklime"](https://www.lackadaisycats.com/comic.php?comicid=58)), his personality issues were the reason why he was rejected at the police academy.[^5]
 
-[^5]: [Jump to "Pinstripes"](https://lackadaisy.com/comic.php?comicid=63) in the webcomic for context.
+[^5]: Jump to ["Pinstripes"](https://lackadaisy.com/comic.php?comicid=63) in the webcomic for context.
 
 ---
 Obsidian/Foam tags: #lackadaisy #characterprofiles
