@@ -6,12 +6,17 @@ vscode:
 
 tasks:
 - name: setup keys
-  before: |
+  init: |
+    echo "setting up persistence for gpg"
+    eval $(gp env -e GNUPGHOME=/workspace/.gnupg)
     if [[ ! -z $GNUPG  ]]; then
-      cd ~
-      rm -rf .gnupg
       echo $GNUPG | base64 -d | tar --no-same-owner -xzf -
     fi
+    gpg --list-keys > /dev/null
+    if [ ! -f "$GNUPGHOME/gnupg.conf" ]; then
+      cp  .vscode/docker/gnupg.conf ../.gnupg/
+    fi
+  before: |
     if [[ ! -z $SSH_PUBLIC_KEY  ]] && [[ ! -z $SSH_PRIVATE_KEY ]]; then
       # todo
     fi
