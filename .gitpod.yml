@@ -20,3 +20,5 @@ tasks:
     if [[ ! -z $SSH_PUBLIC_KEY  ]] && [[ ! -z $SSH_PRIVATE_KEY ]]; then
       # todo
     fi
+    mv ~/.gnupg ~/.gnupg-old
+    ln -s /workspace/.gnupg ~/.gnupg
