@@ -4,44 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "32848fffdce957a7",
-        "type": "tabs",
+        "id": "3fb90f94bda71abd",
+        "type": "split",
         "children": [
           {
-            "id": "8adc2093fba871dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-08-21.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "332a53db687ea533",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a7b4278877c0617",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Personal Board.canvas",
-                "viewState": {
-                  "x": -1350,
-                  "y": -1183.130778739184,
-                  "zoom": -0.008889091836269743
+            "id": "f1e18d358deaa939",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "08b53a843d448015",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Personal Board.canvas",
+                    "viewState": {
+                      "x": -860,
+                      "y": -2170,
+                      "zoom": -0.3528998348843331
+                    }
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "45d79ee508646497",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "daily-notes/2023-10-22.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
                 }
               }
-            }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a22ee7028efc25c4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fece22a72c09410c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "multiverse/opensource/Getting Hit By Bus.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -115,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-21.md",
+                "file": "multiverse/opensource/Getting Hit By Bus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-21.md",
+                "file": "multiverse/opensource/Getting Hit By Bus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +170,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -155,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-21.md"
+                "file": "multiverse/opensource/Getting Hit By Bus.md"
               }
             }
           },
@@ -189,38 +214,40 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "8adc2093fba871dd",
+  "active": "fece22a72c09410c",
   "lastOpenFiles": [
+    "redirects/golink.md",
+    "daily-notes/2023-10-22.md",
+    "multiverse/minecraft/Fundy's Mind.md",
+    "multiverse/autistic-vocabulary/Autistic Burnout.md",
+    "multiverse/opensource/Getting Hit By Bus.md",
+    "multiverse/opensource",
+    "README.md",
+    "redirects/golinks.md",
+    "redirects/go.md",
+    "go.md",
     "Personal Board.canvas",
+    "Gildedguy Stories.md",
+    "daily notes.md",
+    "multiverse/autistic-vocabulary/Descending to Madness.md",
+    "Kooky Insane Stuff.md",
     "daily-notes/2023-08-21.md",
     "daily-notes/YYYY-MM-DD.md",
     "daily-notes/2023-08-19.md",
     "daily-notes/2023-08-18.md",
     "daily-notes/2023-08-06.md",
-    "multiverse/Lackaverse/Calvin Allen McMurray.md",
+    "multiverse/lackaverse/Calvin Allen McMurray.md",
     "daily-notes/2023-08-17.md",
-    "multiverse/Lackaverse/Lackacrew.md",
-    "daily notes.md",
+    "multiverse/lackaverse/Lackacrew.md",
     "daily-notes/2023-08-12.md",
-    "multiverse/Lackaverse/Roark Rickaby.md",
+    "multiverse/lackaverse/Roark Rickaby.md",
     "multiverse/Lackaverse/Untitled.md",
     "multiverse/notepad",
     "daily-notes/2023-08-16.md",
     "daily-notes/2023-08-14.md",
     "scripts/new-daily-note.sh",
-    "redirects/Freckle.md",
-    "multiverse/autistic-vocabulary/Descending to Madness.md",
     "multiverse/autistic-vocabulary",
-    "daily-notes/2023-08-15.md",
-    "gildedguy.md",
-    "multiverse/fandoms/Lackadaisy.md",
-    "daily-notes/2023-08-10.md",
-    "daily-notes/2023-08-13.md",
-    "personal mixtapes.md",
-    "daily-notes/2023-08-11.md",
-    "multiverse/fandoms/Generation Loss.md",
-    "daily-notes/2023-08-09.md",
-    "multiverse/Lackaverse",
+    "multiverse/lackaverse",
     "multiverse/fandoms",
     "LICENSE",
     "scripts/mirror.sh",
@@ -229,7 +256,6 @@
     "stash-hub/Pasted image 20230728235017.png",
     "redirects",
     "Untitled.canvas",
-    "multiverse/humans/Untitled.canvas",
-    "multiverse/misc-lorebooks"
+    "multiverse/humans/Untitled.canvas"
   ]
 }

@@ -3,5 +3,7 @@
   "obsidian-charts",
   "obsidian-git",
   "tag-wrangler",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-admonition",
+  "find-unlinked-files"
 ]
