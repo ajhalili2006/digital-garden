@@ -1,3 +1,5 @@
+# Kooky Insane Stuff
+
 <!-- markdownlint-disable-file MD013 -->
 * [[go]] <https://mau.dev/ajhalili2006-experiments/kooky-insane-stuff>
 * **TL;DR**: Treat Jiroh's Kooky Insane Stuff as the unhinged version of his digital garden.
