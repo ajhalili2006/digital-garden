@@ -13,8 +13,9 @@ List of [[ajhalili2006]]'s daily note entries, updated on daily basis (depending
 | [[2023-08-16]] | <https://mau.dev/andreijiroh.dev/digital-garden/-/blob/main/daily-notes/2023-08-16.md> | <obsidian://open?vault=digital-garden-ajhalili2006&file=daily-notes%2F2023-08-16>
 | [[2023-08-17]] | <https://mau.dev/andreijiroh.dev/digital-garden/-/blob/main/daily-notes/2023-08-17.md> | <obsidian://open?vault=digital-garden-ajhalili2006&file=daily-notes%2F2023-08-17>
 | [[2023-08-18]] | <https://mau.dev/andreijiroh.dev/digital-garden/-/blob/main/daily-notes/2023-08-18.md> | <obsidian://open?vault=digital-garden-ajhalili2006&file=daily-notes%2F2023-08-18>
-| [[2023-10-22]] | TBD | TBD |
-
+| [[2023-10-22]] | <https://mau.dev/andreijiroh.dev/digital-garden/-/blob/main/daily-notes/2023-10-22.md> | TBD |
+| [[2023-10-23]] | <https://mau.dev/andreijiroh.dev/digital-garden/-/blob/main/daily-notes/2023-10-23.md> | TBD |
+| [[2023-10-24]] | <https://mau.dev/andreijiroh.dev/digital-garden/-/blob/main/daily-notes/2023-10-24.md> | TBD |
 
 ---
 
